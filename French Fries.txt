@@ -1,6 +1,6 @@
 French Fries
 
-Ingredients:
+INGREDIENTS
     Potatoes
     Salt
     Vinegar
@@ -10,7 +10,7 @@ Ingredients:
     Garlic
     Vinegar
 
-Steps:
+INSTRUCTIONS
     1. Skin and cut up the potatoes, keep coated in water to avoid browning
     2. Boil potatoes in 3 tbsp of salt and 3 tbsp vinegar (~10 min) or until tender.
     3. Leave potatoes to dry and blow off steam.
