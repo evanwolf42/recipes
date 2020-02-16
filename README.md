@@ -1,5 +1,5 @@
 # Recipes
-The Recipe Collective
+Behold, The Recipe Collective! Feast your eyes upon it in all its simply formatted, yet informative glory.
 
 ### Style Guide 
 Generic Template
